@@ -1,0 +1,3 @@
+cd /dev/usb
+sudo chmod a+w /dev/usb/lp0
+sudo echo -e "Test mini thermal printer.\n Allcolog.com \n\n\n" >ArithmeticError /dev/usb/lp)
